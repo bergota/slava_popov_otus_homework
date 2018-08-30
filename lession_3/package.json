@@ -1,0 +1,9 @@
+{
+  "name": "lession_3",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+
+    "tree": "node ./tree.js "
+  }
