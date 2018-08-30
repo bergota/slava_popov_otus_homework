@@ -5,5 +5,5 @@
   "main": "index.js",
   "scripts": {
 
-    "tree": "node ./tree.js "
+    "tree": "node .tree.js "
   }
